@@ -1,0 +1,9 @@
+p#destacado{
+    border:solid black 1px
+}
+p.destacado{
+    border:solid black 1px
+}
+span#id1{
+    border:solid black 1px
+}
