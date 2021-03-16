@@ -1,0 +1,247 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Kaushan+Script:400|Fredoka+One:400");
+* {
+  box-sizing: border-box;
+}
+.experience-cover {
+  align-items: center;
+  background-color: var(--hunter-green);
+  display: flex;
+  flex-direction: column;
+  height: 842px;
+  width: 595px;
+}
+.experience-cover .aptitudes {
+  height: 141px;
+  letter-spacing: 0px;
+  line-height: 140.9px;
+  margin-right: 9px;
+  min-height: 141px;
+  min-width: 466px;
+  white-space: nowrap;
+}
+.experience-cover .auto-flex {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 36px;
+  margin-top: 57px;
+  min-width: 177px;
+}
+.experience-cover .auto-flex1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 37px;
+  margin-top: 42px;
+  min-width: 166px;
+}
+.experience-cover .auto-flex2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: -60px;
+  min-height: 854px;
+  width: 563px;
+}
+.experience-cover .auto-flex3 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 15px;
+  min-width: 563px;
+}
+.experience-cover .css-1 {
+  height: 75px;
+  margin-left: 26px;
+  object-fit: cover;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 65px;
+}
+.experience-cover .css-1:hover {
+  transform: rotate(15deg);
+}
+.experience-cover .edicin-de-vdeo {
+  height: 15px;
+  letter-spacing: 0.36px;
+  margin-left: 383px;
+  min-height: 15px;
+  min-width: 102px;
+  pointer-events: auto;
+  text-align: right;
+  transition: all 0.2s ease;
+}
+.experience-cover .edicin-de-vdeo:hover {
+  transform: scale(0.9);
+}
+.experience-cover .group-3 {
+  height: 16px;
+  margin-left: 4px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 16px;
+}
+.experience-cover .group-3:hover {
+  transform: scale(0.9);
+}
+.experience-cover .group-4 {
+  height: 16px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 16px;
+}
+.experience-cover .group-4:hover {
+  transform: scale(0.9);
+}
+.experience-cover .image-1 {
+  height: 72px;
+  margin-top: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 74px;
+}
+.experience-cover .image-1:hover {
+  transform: rotate(15deg);
+}
+.experience-cover .image-2 {
+  height: 76px;
+  margin-left: 27px;
+  object-fit: cover;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 76px;
+}
+.experience-cover .image-2:hover {
+  transform: rotate(15deg);
+}
+.experience-cover .image-3 {
+  height: 86px;
+  margin-right: 39px;
+  margin-top: 40px;
+  object-fit: cover;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 88px;
+}
+.experience-cover .image-3:hover {
+  transform: rotate(15deg);
+}
+.experience-cover .image-4 {
+  height: 75px;
+  object-fit: cover;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+.experience-cover .image-4:hover {
+  transform: rotate(15deg);
+}
+.experience-cover .keyboard-arrow-right-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  overflow: hidden;
+  padding: 4px 0;
+  transform: rotate(180deg);
+  width: 16px;
+}
+.experience-cover .keyboard-arrow-right-1-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  overflow: hidden;
+  padding: 4px 0;
+  width: 16px;
+}
+.experience-cover .line-3 {
+  height: 1px;
+  margin-top: 126px;
+  width: 563px;
+}
+.experience-cover .place {
+  height: 15px;
+  letter-spacing: 0.36px;
+  margin-left: 6px;
+  min-height: 15px;
+  min-width: 36px;
+  pointer-events: auto;
+  text-align: right;
+  transition: all 0.2s ease;
+}
+.experience-cover .place:hover {
+  transform: scale(0.9);
+}
+.experience-cover .text-1 {
+  height: 102px;
+  letter-spacing: 1.08px;
+  line-height: 30.3px;
+  margin-left: 2px;
+  margin-top: 58px;
+  min-height: 102px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  width: 507px;
+}
+.experience-cover .text-1:hover {
+  transform: scale(1.1);
+}
+.experience-cover .text-2 {
+  height: 19px;
+  letter-spacing: 1.92px;
+  margin-left: 2px;
+  margin-top: 31px;
+  min-height: 19px;
+  min-width: 371px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+}
+.experience-cover .text-2:hover {
+  transform: scale(1.1);
+}
+.experience-cover .vector {
+  height: 8px;
+  transform: rotate(-180deg);
+  width: 16px;
+}
+.experience-cover .vector-1 {
+  height: 8px;
+  width: 16px;
+}
+.fredokaone-normal-turbo-16px {
+  color: var(--turbo);
+  font-family: "Fredoka One", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.fredokaone-normal-white-12px {
+  color: white;
+  font-family: "Fredoka One", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.fredokaone-normal-white-18px {
+  color: white;
+  font-family: "Fredoka One", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kaushanscript-normal-turbo-130px {
+  color: var(--turbo);
+  font-family: "Kaushan Script", Helvetica, Arial, serif;
+  font-size: 130px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --hunter-green: rgba(22, 22, 22, 1);
+  --turbo: rgba(255, 233, 0, 1);
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

@@ -1,0 +1,319 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Kaushan+Script:400|Fredoka+One:400");
+* {
+  box-sizing: border-box;
+}
+.about-me {
+  align-items: center;
+  background-color: var(--hunter-green);
+  display: flex;
+  flex-direction: column;
+  height: 842px;
+  width: 595px;
+}
+.about-me .address {
+  align-self: flex-start;
+  height: 15px;
+  letter-spacing: 0.36px;
+  margin-left: 178px;
+  min-height: 15px;
+  min-width: 84px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .address:hover {
+  transform: scale(1.1);
+}
+.about-me .aptitudes {
+  height: 15px;
+  letter-spacing: 0.36px;
+  margin-left: 421px;
+  min-height: 15px;
+  min-width: 62px;
+  pointer-events: auto;
+  text-align: right;
+  transition: all 0.2s ease;
+}
+.about-me .aptitudes:hover {
+  transform: scale(0.9);
+}
+.about-me .auto-flex {
+  align-items: flex-start;
+  display: flex;
+  height: 12px;
+  margin-right: 23px;
+  margin-top: 104px;
+  min-width: 504px;
+}
+.about-me .auto-flex1 {
+  align-items: flex-end;
+  display: flex;
+  height: 16px;
+  margin-right: 21px;
+  margin-top: 2px;
+  min-width: 506px;
+}
+.about-me .auto-flex2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 15px;
+  margin-top: 40px;
+  min-width: 281px;
+}
+.about-me .auto-flex3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-right: 4px;
+  margin-top: 3px;
+  min-width: 542px;
+}
+.about-me .auto-flex4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: -68px;
+  min-height: 862px;
+  width: 563px;
+}
+.about-me .auto-flex5 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 15px;
+  min-width: 563px;
+}
+.about-me .centro-de-formacin {
+  height: 11px;
+  letter-spacing: 0.9px;
+  min-height: 11px;
+  min-width: 127px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .centro-de-formacin:hover {
+  transform: scale(1.1);
+}
+.about-me .date {
+  height: 15px;
+  letter-spacing: 0.36px;
+  margin-left: 89px;
+  min-height: 15px;
+  min-width: 125px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .date:hover {
+  transform: scale(1.1);
+}
+.about-me .experiencia {
+  height: 11px;
+  letter-spacing: 0.9px;
+  margin-left: 144px;
+  min-height: 11px;
+  min-width: 71px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .experiencia:hover {
+  transform: scale(1.1);
+}
+.about-me .fecha-de-nacimiento {
+  height: 11px;
+  letter-spacing: 0.9px;
+  margin-left: 102px;
+  min-height: 11px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .fecha-de-nacimiento:hover {
+  transform: scale(1.1);
+}
+.about-me .formacin {
+  align-self: flex-end;
+  height: 11px;
+  letter-spacing: 0.9px;
+  min-height: 11px;
+  min-width: 64px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .formacin:hover {
+  transform: scale(1.1);
+}
+.about-me .group-2 {
+  height: 16px;
+  margin-left: 5px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 16px;
+}
+.about-me .group-2:hover {
+  transform: scale(0.9);
+}
+.about-me .group-3 {
+  height: 16px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 16px;
+}
+.about-me .group-3:hover {
+  transform: scale(0.9);
+}
+.about-me .habilidades {
+  height: 11px;
+  letter-spacing: 0.9px;
+  margin-left: 84px;
+  min-height: 11px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .habilidades:hover {
+  transform: scale(1.1);
+}
+.about-me .ilerna {
+  height: 15px;
+  letter-spacing: 0.36px;
+  min-height: 15px;
+  min-width: 38px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .ilerna:hover {
+  transform: scale(1.1);
+}
+.about-me .image-6 {
+  height: 306px;
+  margin-left: 1px;
+  margin-top: 28px;
+  object-fit: cover;
+  width: 454px;
+}
+.about-me .keyboard-arrow-right-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  overflow: hidden;
+  padding: 4px 0;
+  transform: rotate(180deg);
+  width: 16px;
+}
+.about-me .keyboard-arrow-right-1-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  overflow: hidden;
+  padding: 4px 0;
+  width: 16px;
+}
+.about-me .line-3 {
+  height: 1px;
+  margin-top: 16px;
+  width: 563px;
+}
+.about-me .place {
+  height: 15px;
+  letter-spacing: 0.36px;
+  margin-left: 7px;
+  min-height: 15px;
+  min-width: 36px;
+  pointer-events: auto;
+  text-align: right;
+  transition: all 0.2s ease;
+}
+.about-me .place:hover {
+  transform: scale(0.9);
+}
+.about-me .smx {
+  height: 15px;
+  letter-spacing: 0.36px;
+  min-height: 15px;
+  min-width: 30px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .smx:hover {
+  transform: scale(1.1);
+}
+.about-me .sobre-m {
+  height: 152px;
+  letter-spacing: 0px;
+  line-height: 151.8px;
+  margin-left: 3px;
+  min-height: 152px;
+  min-width: 466px;
+  white-space: nowrap;
+}
+.about-me .text-1 {
+  height: 102px;
+  letter-spacing: 1.08px;
+  line-height: 30.3px;
+  margin-left: 2px;
+  margin-top: 54px;
+  min-height: 102px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  width: 507px;
+}
+.about-me .text-1:hover {
+  transform: scale(1.1);
+}
+.about-me .text-2 {
+  height: 15px;
+  letter-spacing: 0.36px;
+  margin-left: 170px;
+  min-height: 15px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+}
+.about-me .text-2:hover {
+  transform: scale(1.1);
+}
+.about-me .vector {
+  height: 8px;
+  transform: rotate(-180deg);
+  width: 16px;
+}
+.about-me .vector-1 {
+  height: 8px;
+  width: 16px;
+}
+.fredokaone-normal-buddha-gold-9px {
+  color: var(--buddha-gold);
+  font-family: "Fredoka One", Helvetica, Arial, serif;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+}
+.fredokaone-normal-white-12px {
+  color: white;
+  font-family: "Fredoka One", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.fredokaone-normal-white-18px {
+  color: white;
+  font-family: "Fredoka One", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kaushanscript-normal-turbo-140px {
+  color: var(--turbo);
+  font-family: "Kaushan Script", Helvetica, Arial, serif;
+  font-size: 140px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --buddha-gold: rgba(196, 181, 5, 1);
+  --hunter-green: rgba(22, 22, 22, 1);
+  --turbo: rgba(255, 233, 0, 1);
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
