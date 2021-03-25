@@ -1,0 +1,109 @@
+
+/* General setup */
+
+
+
+* {
+
+  box-sizing: border-box;
+
+}
+
+
+
+body {
+
+  margin: 0 auto;
+
+  min-width: 1000px;
+
+  max-width: 1400px;
+
+}
+
+.texto {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.boton_1{
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 25px;
+  color: #00ccff;
+  background-color: #042fff;
+  border-radius: 15px;
+  border: 3px double #00ccff;
+}
+
+/* Layout */
+
+
+
+section {
+
+  float: left;
+
+  width: 50%;
+
+}
+
+
+
+aside {
+
+  float: left;
+
+  width: 30%;
+
+}
+
+
+
+nav {
+
+  float: left;
+
+  width: 20%;
+
+}
+
+
+
+footer {
+
+  clear: both;
+
+}
+
+
+
+header, section, aside, nav, footer {
+
+  padding: 20px;
+
+}
+
+
+
+/* header and footer */
+
+
+
+header, footer {
+
+  border-top: 5px solid #042fff;
+
+  border-bottom: 5px solid #042fff;
+
+}
+
+.titulo {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #042fff;
+}
+
+/* WRITE YOUR CODE BELOW HERE */
